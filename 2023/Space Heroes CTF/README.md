@@ -15,8 +15,8 @@
 
 ## Statistics
 
-[![Category Breakdown](./.images/Category%20Breakdown.png)]
+![Category Breakdown](./.images/Category%20Breakdown.png)
 
-[![Solve Percentages](./.images/Solve%20Percentages.png)]
+![Solve Percentages](./.images/Solve%20Percentages.png)
 
-[![Score over Time](./.images/Score%20over%20Time.png)]
+![Score over Time](./.images/Score%20over%20Time.png)
