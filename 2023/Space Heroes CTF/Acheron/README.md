@@ -24,6 +24,6 @@ You can try to run the file and see that it needs navigation instructions in ord
 
 Since we have access to the executable running on the server, we can try to use a decompiler and see if there is anything interresting. I tend to use [dogbolt.org](https://dogbolt.org/), it tries to decompile the executable using different tools. When uploading the file, i look through the different decompiler content, and find Ghidras content interesting.
 
-[![Image 1](./files/image1.PNG)]
+![Image 1](./files/image1.PNG)
 
 We can see excactly what the program want's as the input, just reading through the many if statements and writing down the different letters we get the following string: `NENWSSEWSNENSSWEENWSNNESS` now paste the string into the python script, and you will get the flag.

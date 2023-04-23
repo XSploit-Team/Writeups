@@ -16,7 +16,7 @@ I really hope there is a tool for this, i couldn't fin one, so this solution is 
 
 In the audio track (with some fine adjusting in zoom) you can see something like in the picture below.
 
-[![Image 1](./files/image1.PNG)]
+![Image 1](./files/image1.PNG)
 
 You can see that there are large spaces that seperates each binary block, and thin/thicc blocks representing a 0 or 1. Because I don't know if there is a tool for this, i did it by hand... When reading it all, you get all this binary code:
 
