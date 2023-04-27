@@ -4,7 +4,7 @@
 
 | Name                                            | Points  |
 |-------------------------------------------------|---------|
-| [Jazper](https://github.com/j4asper)            | 581     |
+| [Jazper](https://github.com/j4asper)            | 580     |
 | [Eli4az](https://github.com/Eli4az)             | 100     |
 | [Basse271006](https://github.com/Basse271006)   | 20      |
 
