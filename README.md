@@ -5,7 +5,7 @@ CTF Writeups by the Z3R0D4Y Team. The writeups are arranged by year, then by CTF
 | Event Writeups                                         | Event on CTFTime                                       | Points | Place |
 |--------------------------------------------------------|--------------------------------------------------------|--------|-------|
 | [Space Heroes CTF 2023](./2023/Space%20Heroes%20CTF/)  | [View on CTFTime.org](https://ctftime.org/event/1856)  | 3619   | 76    |
-| [ÅngstromCTF 2023](./2023/%C3%A5ngstromCTF/)           | [View on CTFTime.org](https://ctftime.org/event/1859)  | 700    | 226   |
+| [ÅngstromCTF 2023](./2023/%C3%A5ngstromCTF/)           | [View on CTFTime.org](https://ctftime.org/event/1859)  | 701    | 221   |
 
 ## Why make writeups?
 
