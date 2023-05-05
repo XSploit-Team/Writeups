@@ -8,6 +8,7 @@ CTF Writeups by the Z3R0D4Y Team. The writeups are arranged by year, then by CTF
 | [ÅngstromCTF 2023](./2023/%C3%A5ngstromCTF/)           | [View on CTFTime.org](https://ctftime.org/event/1859)  | 700    | 226   |
 | [TAMU CTF 2023](./2023/TAMU%20CTF/)                    | [View on CTFTime.org](https://ctftime.org/event/1914)  | 2634   | 108   |
 | [UMD CTF 2023](./2023/UMD%20CTF/)                      | [View on CTFTime.org](https://ctftime.org/event/1914)  | 362    | 349   |
+| [Punk Security CTF 2023](./2023/Punk%20Security%20Birthday%20CTF/)  | [View on CTFTime.org](https://ctftime.org/event/1903)  | 150    | 62    |
 
 ## Why make writeups?
 
