@@ -1,3 +1,7 @@
+# [Writeups have moved - Click Here!](https://xsplo.it/writeups)
+
+
+
 # Writeups
 
 CTF Writeups by the Z3R0D4Y Team. The writeups are arranged by year, then by CTF Name and then by challenge. There might be some missing writeups, either because we didn't have time to write them or the challenge was so easy that it wouldn't be necessary.
